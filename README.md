@@ -24,7 +24,7 @@ This tool is made available for scientific exploration and should **NOT** be use
 ## Local
 
 1. [Download R, R studio and the psycho package](https://neuropsychology.github.io/psycho.R/2018/03/21/installingR.html)
-2. [Download the profLIEr App](https://github.com/neuropsychology/profLIEr/zipball/master/)
+2. [Download the profLIEr App](https://github.com/DominiqueMakowski/profLIEr/zipball/master/)
 3. Open the server.R file in R studio. 
 4. Click on "Run app" (the green arrow)
 
