@@ -30,5 +30,5 @@ This tool is made available for scientific exploration and should **NOT** be use
 
 ---
 
-<p><a href=https://github.com/DominiqueMakowski/profLIEr/><img src="https://github.com/DominiqueMakowski/profLIEr/blob/master/images/screenshot1.png" alt="profLIEr App"></a></p>
-<p><a href=https://github.com/DominiqueMakowski/profLIEr/><img src="https://github.com/DominiqueMakowski/profLIEr/blob/master/images/screenshot2.png" alt="profLIEr App"></a></p>
+<p><a href=https://github.com/DominiqueMakowski/profLIEr/><img src="https://github.com/DominiqueMakowski/profLIEr/blob/master/images/screenshot1.PNG" alt="profLIEr App"></a></p>
+<p><a href=https://github.com/DominiqueMakowski/profLIEr/><img src="https://github.com/DominiqueMakowski/profLIEr/blob/master/images/screenshot2.PNG" alt="profLIEr App"></a></p>
