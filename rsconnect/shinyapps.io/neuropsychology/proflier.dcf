@@ -1,0 +1,10 @@
+name: proflier
+title:
+username:
+account: neuropsychology
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1815443
+bundleId: 2805350
+url: https://neuropsychology.shinyapps.io/proflier/
+when: 1581906176.46356

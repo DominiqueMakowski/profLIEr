@@ -54,7 +54,7 @@ shinyServer(function(input, output) {
 
     density_data <- data.frame()
     for(i in c("Ability", "Frequency", "Negativity", "Contextuality")){
-      dat <- estimate_density(data[[i]])
+      dat <- bayestestR::estimate_density(data[[i]])
       val <- scores[[i]]
       dat$fill <- ifelse(dat$x < val, i, "Above")
       dat$Dimension <- i
