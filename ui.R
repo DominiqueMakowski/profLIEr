@@ -37,12 +37,12 @@ shinyUI(fluidPage(
             custom_slider("LIE_10", "1. I can lie well"),
             custom_slider("LIE_9", "2. I am a good liar"),
             custom_slider("LIE_14", "3. It is hard for others to detect my lies"),
-            custom_slider("LIE_18", "4. It is easy for me to make up clever lies"),
+            custom_slider("LIE_12", "4. I can lie effectively if I want to"),
 
             custom_slider("LIE_4", "5. I have a tendency to lie"),
             custom_slider("LIE_5", "6. I lie more often than most people do"),
             custom_slider("LIE_23", "7. I find it difficult to refrain myself from lying"),
-            custom_slider("LIE_1", "8. I lie frequently"),
+            custom_slider("LIE_22", "8. I find myself lying without any reason"),
 
             custom_slider("LIE_41", "10. Lying is against my principles"),
             custom_slider("LIE_25", "11. I feel guilty after lying"),
@@ -52,7 +52,7 @@ shinyUI(fluidPage(
             custom_slider("LIE_43", "14. It is okay to lie sometimes"),
             custom_slider("LIE_33", "15. I lie when necessary"),
             custom_slider("LIE_42", "16. It is acceptable to lie depending on the context"),
-            custom_slider("LIE_39", "17. I would lie if something important was at stake")
+            custom_slider("LIE_30", "17. I lie when it's easier than telling the truth")
         ),
 
         # Show a plot of the generated distribution
